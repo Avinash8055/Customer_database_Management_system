@@ -4,7 +4,7 @@
 
 1. **Clone the repository**
    ```sh
-   [git clone <https://github.com/Avinash8055/Customer_database_Management_system.git
+   git clone https://github.com/Avinash8055/Customer_database_Management_system.git
    ```
 
 2. **Navigate into the project directory**
