@@ -4,12 +4,12 @@
 
 1. **Clone the repository**
    ```sh
-   git clone <repository_url>
+   [git clone <https://github.com/Avinash8055/Customer_database_Management_system.git
    ```
 
 2. **Navigate into the project directory**
    ```sh
-   cd <project_name>
+   cd Customer_database_Management_system
    ```
 
 3. **Install dependencies**
